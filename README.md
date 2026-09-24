@@ -6,4 +6,6 @@ O TelaLogin é um projeto de aplicação web que implementa um sistema de login 
 # Pastas
 Mesma TelaLogin base porém com front-end difrente (thymeleaf & React).
 CADA UMA TEM SEU PROPRIO READ-ME
-/ Thymeleaf
+
+/TelaLogin(Thymeleaf)
+/TelaLogin(React)
